@@ -4,3 +4,6 @@ atualização
 de arquivo
 nova branch
 Enviando a funcionalidade_a
+
+Enviando a funcionalidade_b
+
